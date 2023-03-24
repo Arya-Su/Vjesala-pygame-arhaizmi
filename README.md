@@ -1,3 +1,7 @@
 # Vjesala-pygame-arhaizmi
-Igra vjesala sa bosanskohercegovackim arhaicnim rijecima
-Ovo cu detaljno naknadno ispisati :D
+Igra vjesala sa bosanskohercegovackim arhaicnim rijecima /br
+Zahvaljujuci Tim Ruscici (vlasniku YT kanala https://www.youtube.com/@TechWithTim) sumirala sam od ranije poznate osnove Python programa i izradila drugu po redu igricu 
+u pygameu. Kao  neko ko je bio profesor, mogu reci da je Tim izvanredan predavac i prelijepo je sto znanje siri dalje.
+Kostur ove igre je slican kao i izvorni, Timov. Ja nisam zeljela da u igri bude engleski alfabet, tako da sam umjesto standardne for petlje koja skracuje kod i olaksava zivot, dodala sama listu rijeci bosanske abecede. Druga izmjena je vizuelnog karaktera. Nisam zeljela gubiti vrijeme na crtanju vjesala, tako da sam uzela sablon izvorni, ali sam zato izmijenila boju pojedinih slova i font. Takodjer, bilo je malo teze pronaci font koji podrzava bh slova, cak sam u jednom momentu imala i font skinut sa interneta, ali sam se ipak odlucila za klasicnije fontove. Treca izmjena su rijeci, zeljela sam da igra bude poteska i da, ko god bude otvarao program (pozdrav za Amilu :D) se malo napati dok ne pogodi rijeci :D
+Tokom izrade ovog projekta sam uzivala u logici samog programa i nisam imala poteskoca u razumijevanju procesa. Greske koje najcesce pravim na kojima cu morati poraditi su koristenje taba u petljama i razmaci izmedju formula, znakova i co. Zelim da mi kod bude sto citljiviji.
+U ovoj igri imam jedan bug na cijem rjesenju radim. Taj bug je sto program ne dozivljava slova LJ, NJ i DŽ kao jedan znak. Takodjer, nakon rjesenja te problematike, napravit cu da user nakon odigrane partije moze birati da li ce izaci iz programa ili nastaviti igrati. Trebalo bi tu jos dodati i scoreboard, ali za pocetak cu ovo rijesiti.
